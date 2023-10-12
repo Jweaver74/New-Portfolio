@@ -1,6 +1,6 @@
 import MarqueeCards from "../Components/MarqueeCards";
 import SectionTitle from "../Components/SectionTitle";
-import SkillsCards from "../src/Components/SkillsCards";
+import SkillsCards from "../Components/SkillsCards";
 
 const Skills = () => {
   return (

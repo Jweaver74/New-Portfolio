@@ -87,9 +87,9 @@ const icons = {
 
 const introduction = {
   text: [
-    "Hi there!",
+    "Hi there, I'm glad to have you here!",
 
-    "My name is Jason and I am a full stack developer from Texas. My passion for web development started in April 2022.",
+    "My name is Valeriu and I am a front-end developer based in Italy. My passion for web development started in April 2022 when I began building Shopify stores.",
 
     "Since then, I have been constantly advancing and expanding my knowledge in this field. In October 2022, I felt the urge to dive deeper into web development which led me to learn how to code in html, css, js and reactjs. With each project, I strive to create a unique and effective solution while integrating the latest web technologies.",
 
@@ -235,6 +235,13 @@ const skills = [
       "I have experience using Three.js to create 3D graphics and animations in web applications, and am able to create complex scenes and visualizations.",
   },
   {
+    id: "figma",
+    title: "Figma",
+    icon: figmaIcon,
+    description:
+      "I am proficient in using Figma to design and prototype user interfaces and other graphic elements, and am able to collaborate with other designers and developers using the tool.",
+  },
+  {
     id: "git",
     title: "Git",
     icon: gitIcon,
@@ -247,6 +254,34 @@ const skills = [
     icon: githubIcon,
     description:
       "I am skilled in using GitHub to collaborate on projects, share code, and track issues and bugs. With GitHub, I can create and manage repositories, contribute to open-source projects, and showcase my work to potential employers.",
+  },
+  {
+    id: "gsap",
+    title: "GSAP",
+    icon: gsapIcon,
+    description:
+      "I have experience using GSAP to create complex animations and effects in web applications. With GSAP, I can create smooth, performant animations that work accross different browsers and devices.",
+  },
+  {
+    id: "shopify",
+    title: "Shopify",
+    icon: shopifyIcon,
+    description:
+      "I am proficient in using Shopify to create online stores and sell products. With Shopify, I can manage the inventory, process payments, and customize the look and feel of the online store.",
+  },
+  {
+    id: "framer",
+    title: "Framer",
+    icon: framerIcon,
+    description:
+      "I have experience using Framer to create interactive interfaces and animations for web and mobile applications.",
+  },
+  {
+    id: "webflow",
+    title: "Webflow",
+    icon: webflowIcon,
+    description:
+      "I am familiar using Webflow to design and build responsive websites visually, using drag-and-drop interface and coded components.",
   },
 ];
 

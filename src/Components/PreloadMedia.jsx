@@ -1,5 +1,5 @@
 import {useState} from 'react'
-import Loader from './Particles/Loader';
+import Loader from './Loader';
 
 const PreloadMedia = ({images, children}) => {
   const [loaded, setLoaded] = useState(false);

@@ -2,7 +2,7 @@ import { m, LazyMotion, domAnimation } from "framer-motion";
 import SectionTitle from "../Components/SectionTitle";
 import ContactServices from "../Components/ContactServices";
 import ContactForm from "../Components/ContactForm";
-import GlobeComponent from "../src/Components/GlobeComponent";
+import GlobeComponent from "../Components/GlobeComponent";
 import SocialLinks from "../Components/SocialLinks";
 
 const Contact = () => {
@@ -34,7 +34,7 @@ const Contact = () => {
         <SocialLinks />
         <div className="bg-grayscale-950 flex justify-center pb-4 text-grayscale-400">
           <span>
-            Created by <em>Jason Weaver</em>
+            Created by <em>Valeriu Secrieru</em>
           </span>
         </div>
       </div>
